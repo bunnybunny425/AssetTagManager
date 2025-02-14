@@ -26,4 +26,4 @@ Run:
   npm start
 ```
 
-Take a look at https://localhost:3000/ for the frontend!
+Take a look at http://localhost:3000/ for the frontend!
